@@ -17,8 +17,8 @@
       <div>{{ eventInformation.venue.country }}</div>
     </address>
     <div class="power">
-      Powered by <a href="https://nuxtjs.org">Nuxt.js</a> and
-      <a href="https://www.sanity.io">Sanity.io</a> {{ year }}
+      Powered by <a href="https://nuxtjs.org">Nuxt.js</a>,
+      <a href="https://www.sanity.io">Sanity.io</a> og Stig {{ year }}
     </div>
   </footer>
 </template>
